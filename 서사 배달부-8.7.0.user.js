@@ -4,7 +4,7 @@
 // @description  보관함 내에서 특정 편지만 선택하여 삭제할 수 있는 기능 추가
 // @match        https://crack.wrtn.ai/stories/*
 // @downloadURL  https://github.com/pluone0102-star/-/blob/main/%EC%84%9C%EC%82%AC%20%EB%B0%B0%EB%8B%AC%EB%B6%80-8.6.0.user.js
-// @updateURL    https://github.com/pluone0102-star/-/blob/main/%EC%84%9C%EC%82%AC%20%EB%B0%B0%EB%8B%AC%EB%B6%80-8.6.0.user.js
+// @updateURL    https://github.com/pluone0102-star/-/blob/main/%EC%84%9C%EC%82%AC%20%EB%B0%B0%EB%8B%AC%EB%B6%80-8.6.0.meta.js
 // @grant        none
 // ==/UserScript==
 
